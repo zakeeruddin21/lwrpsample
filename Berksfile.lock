@@ -1,0 +1,7 @@
+DEPENDENCIES
+  lwrpsample
+    path: .
+    metadata: true
+
+GRAPH
+  lwrpsample (0.1.0)

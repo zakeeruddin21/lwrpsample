@@ -1,0 +1,7 @@
+name             'lwrpsample'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures lwrpsample'
+long_description 'Installs/Configures lwrpsample'
+version          '0.1.0'
