@@ -1,6 +1,11 @@
 # lwrpsample-cookbook
 
 TODO: Enter the cookbook description here.
+LWRP links
+1. http://dougireton.com/blog/2012/12/31/creating-an-lwrp/
+2. http://dougireton.com/blog/2013/01/07/creating-an-lwrp-part-2/
+3. https://www.chef.io/blog/2013/12/03/doing-wrapper-cookbooks-right/
+4. http://sysadvent.blogspot.com/2014/12/day-21-baking-delicious-resources-with.html ****
 
 ## Supported Platforms
 
